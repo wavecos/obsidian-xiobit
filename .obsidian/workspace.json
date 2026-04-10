@@ -4,55 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "40d69e9ee9eca392",
+        "id": "640a13bfa688e4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4a9c5844aa516b",
+            "id": "cb943ef05421a90c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Usuarios de Prueba Afiliados"
+              "title": "Modulo de Backoffice"
             }
           },
           {
-            "id": "4121a72128e4f49d",
+            "id": "e6013977adc465c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Reference/astronvim-navigation-refactoring-guide.md",
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "astronvim-navigation-refactoring-guide"
-            }
-          },
-          {
-            "id": "54b42717e97b98a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Presentación 2026-03-11 Santa Cruz"
+              "title": "Usuarios de Prueba Agentes (Intermediarios)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,13 +213,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54b42717e97b98a6",
+  "active": "cb943ef05421a90c",
   "lastOpenFiles": [
-    "Projects/BISA Seguros Salud Internacional/Untitled.md",
-    "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
     "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-5.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-7.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-6.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-4.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-3.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-2.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-1.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-4.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-3.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-2.jpg",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides",
+    "Projects/BISA Seguros Salud Internacional/untitled folder",
     "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+    "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
+    "Projects/BISA Seguros Salud Internacional/Reuniones/Reunion Siniestros 2026-03-24.md",
+    "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
+    "Projects/BISA Seguros Salud Internacional/Untitled.md",
     "Technical Reference/astronvim-navigation-refactoring-guide.md",
     "Projects/Expolinxs/General.md",
     "Rodrigo Claros.md",
@@ -241,11 +244,6 @@
     "Projects/Wiserkronox/Projects/BISA Seguros/BISA Seguros iOS App.md",
     "Projects/Mundialmed/Untitled.md",
     "Projects/Opertivo/Plan de Marketing.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/attachements/bisa_seguros_web_db_diagram.png",
-    "Projects/Wiserkronox/Projects/BISA_PCC04/attachements/WhatsApp Image 2024-11-27 at 11.59.58_303ee448.jpg",
-    "Projects/Wiserkronox/Projects/BISA_PCC04/attachements/WhatsApp Image 2024-11-27 at 11.52.34_38bba69b.jpg",
-    "Projects/Wiserkronox/Projects/attachements/WhatsApp Image 2024-11-27 at 12.09.35_23e8003d.jpg",
-    "Projects/Wiserkronox/Projects/attachements/WhatsApp Image 2024-11-27 at 12.08.38_bfa6f9ff.jpg",
     "Projects/Wiserkronox/Projects/BISA Seguros/attachements",
     "Projects/Wiserkronox/Projects/BISA Seguros/Web Deploy.md",
     "Projects/Wiserkronox/Projects/BISA Seguros/Tests de usuarios en ambientes de Prod y Pruebas.md",
@@ -261,15 +259,6 @@
     "Projects/Wiserkronox/Projects/attachements",
     "Projects/Wiserkronox/Projects/Malta.md",
     "Projects/Wiserkronox/Projects",
-    "Projects/Wiserkronox",
-    "Projects/Mundialmed/attachements/Pasted image 20241026104723.png",
-    "Projects/Mundialmed/attachements/Pasted image 20241026104659.png",
-    "Projects/Mundialmed/attachements",
-    "Projects/Mundialmed",
-    "Projects/Opertivo/Notas Desarrollo.md",
-    "Projects/Opertivo/Modelo de Negocio.md",
-    "Projects/Opertivo/Modelo de Contrato.md",
-    "Projects/Opertivo/General.md",
-    "Projects/Expolinxs/TODOs.md"
+    "Projects/Opertivo/Notas Desarrollo.md"
   ]
 }
