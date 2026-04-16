@@ -38,8 +38,25 @@
               "icon": "lucide-file",
               "title": "Usuarios de Prueba Agentes (Intermediarios)"
             }
+          },
+          {
+            "id": "115c279d03b02f65",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Usuarios de Prueba Afiliados"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb943ef05421a90c",
+  "active": "e6013977adc465c4",
   "lastOpenFiles": [
+    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
     "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Agentes/APIs_Requeridas_Portal_Agentes_v2.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-5.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-7.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-6.jpg",
@@ -231,7 +250,6 @@
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides",
     "Projects/BISA Seguros Salud Internacional/untitled folder",
-    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Reunion Siniestros 2026-03-24.md",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
