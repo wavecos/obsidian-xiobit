@@ -638,13 +638,13 @@ return {
 
 ### Angular keybindings summary
 
-| Key | Action |
-|-----|--------|
-| `<Leader>rs` | Run `npm start` (ng serve) |
-| `<Leader>rt` | Run `npm test` |
-| `<Leader>rb` | Run `npm run build` |
+| Key          | Action                                    |
+| ------------ | ----------------------------------------- |
+| `<Leader>rs` | Run `npm start` (ng serve)                |
+| `<Leader>rt` | Run `npm test`                            |
+| `<Leader>rb` | Run `npm run build`                       |
 | `<Leader>rg` | Run `ng generate ...` (prompts for input) |
-| `Ctrl + \` | Toggle terminal |
+| `Ctrl + \`   | Toggle terminal                           |
 
 ---
 

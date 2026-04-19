@@ -10,7 +10,6 @@
           {
             "id": "0f4a9c5844aa516b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,41 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Usuarios de Prueba Afiliados"
             }
-          },
-          {
-            "id": "4121a72128e4f49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Reference/astronvim-navigation-refactoring-guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "astronvim-navigation-refactoring-guide"
-            }
-          },
-          {
-            "id": "54b42717e97b98a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Expolinxs/General.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54b42717e97b98a6",
+  "active": "0f4a9c5844aa516b",
   "lastOpenFiles": [
-    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
+    "Sol de Septiembre Deudas.md",
+    "attachments/Pasted image 20260316182300.png",
+    "attachments",
+    "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
+    "Projects/BISA Seguros Salud Internacional/Solicitud de Servicios Web - BISA Seguros Salud Internacional.md",
+    "Technical Reference/neovim-astronvim-java-nextjs-guide.md",
+    "Technical Reference/nvim-markdown-notas.md",
+    "Technical Reference/Unconfirmed 478354.crdownload",
     "Technical Reference/astronvim-navigation-refactoring-guide.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+    "Projects/Expolinxs/General.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
     "Rodrigo Claros.md",
     "Impuestos/Notas Facilidad de Pago (cuotas).md",
@@ -260,16 +239,6 @@
     "Projects/Wiserkronox",
     "Projects/Mundialmed/attachements/Pasted image 20241026104723.png",
     "Projects/Mundialmed/attachements/Pasted image 20241026104659.png",
-    "Projects/Mundialmed/attachements",
-    "Projects/Mundialmed",
-    "Projects/Opertivo/Notas Desarrollo.md",
-    "Projects/Opertivo/Modelo de Negocio.md",
-    "Projects/Opertivo/Modelo de Contrato.md",
-    "Projects/Opertivo/General.md",
-    "Projects/Expolinxs/General.md",
-    "Projects/Expolinxs/TODOs.md",
-    "Projects/BISA Seguros Salud Internacional/Untitled.md",
-    "Projects/BISA Seguros Salud Internacional/Solicitud de Servicios Web - BISA Seguros Salud Internacional.md",
-    "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md"
+    "Projects/Opertivo/Notas Desarrollo.md"
   ]
 }
