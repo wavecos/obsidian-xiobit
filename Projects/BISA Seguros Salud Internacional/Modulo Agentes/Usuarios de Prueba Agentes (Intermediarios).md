@@ -8,6 +8,12 @@
 SANDOVAL GONZALES NICOLAS
 PEREIRA SANCHEZ BUSTAMANTE RENE SERGIO
 
+Intermediarios:
+Estimado Alfredo puedes probar con estos intermediarios por favor:
+ 454635  GUTIERREZ ANGLARILL  FREDDY  
+491036   PERROGON PAZ  MARIA DEL ROSARIO
+
+
 
 ```
 {
@@ -19,5 +25,9 @@ PEREIRA SANCHEZ BUSTAMANTE RENE SERGIO
 },
 ```
 
-appseguros@grupobisa.com
 
+ORTUÑO CAMACHO GIOVANNI DOMINGO
+"premiumAnual": "7979.82",
+"premiumAnual": "10484.62",
+
+7979.82+10484.62

@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -304,10 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64636c03e6473a8d",
+  "active": "1ff6605844c1d32a",
   "lastOpenFiles": [
-    "Deploy Notes (Staging).md",
+    "conflict-files-obsidian-git.md",
     "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
+    "Deploy Notes (Staging).md",
     "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
     "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
     "Freshdesk integration.md",
@@ -329,7 +330,6 @@
     "Projects/BISA Seguros Salud Internacional/attachments",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Google_Wallet_Estado_Actual_Y_Pendientes.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Calculo_Deducibles_Por_Asegurado_Y_Poliza.md",
-    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260316182300.png",
     "attachments",
     "Technical Reference/nvim-markdown-notas.md",
