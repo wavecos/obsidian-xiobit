@@ -56,49 +56,79 @@
             }
           },
           {
-            "id": "0eb931e58b71b016",
+            "id": "456b57f00367cbe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+                "file": "Freshdesk integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulo de Backoffice"
+              "title": "Freshdesk integration"
             }
           },
           {
-            "id": "fbf09999e5b518cc",
+            "id": "5adbec70d28806a2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Modulo de Backoffice"
+              "title": "despliegue-rhel-atlas"
             }
           },
           {
-            "id": "3cd1b9e763b4bc44",
+            "id": "1ff6605844c1d32a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
+                "file": "Deploy Notes (Staging).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Deploy Notes (Staging)"
+            }
+          },
+          {
+            "id": "831b31854755b246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-despliegue-checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atlas-despliegue-checklist"
+            }
+          },
+          {
+            "id": "77d4f7780aabbafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +148,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -272,13 +304,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "115c279d03b02f65",
+  "active": "64636c03e6473a8d",
   "lastOpenFiles": [
-    "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+    "Deploy Notes (Staging).md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
     "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/AppIcon.png",
+    "Freshdesk integration.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/Untitled.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-despliegue-checklist.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+    "Projects/BISA Seguros Salud Internacional/Untitled.md",
     "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
+    "Projects/BISA Seguros Salud Internacional/Solicitud de Servicios Web - BISA Seguros Salud Internacional.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-despliegue-checklist.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/despliegue-rhel-atlas.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging",
+    "Projects/BISA Seguros Salud Internacional/untitled folder",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/AppIcon.png",
     "Projects/BISA Seguros Salud Internacional/attachments/Pasted image 20260615163949.png",
     "Projects/BISA Seguros Salud Internacional/attachments",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Google_Wallet_Estado_Actual_Y_Pendientes.md",
@@ -299,25 +345,12 @@
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides",
-    "Projects/BISA Seguros Salud Internacional/untitled folder",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Reunion Siniestros 2026-03-24.md",
     "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
-    "Projects/BISA Seguros Salud Internacional/Untitled.md",
     "Technical Reference/astronvim-navigation-refactoring-guide.md",
     "Projects/Expolinxs/General.md",
     "Rodrigo Claros.md",
-    "Impuestos/Notas Facilidad de Pago (cuotas).md",
-    "Impuestos",
-    "Projects/Wiserkronox/Projects/BISA Seguros/BISA Seguros iOS App.md",
-    "Projects/Mundialmed/Untitled.md",
-    "Projects/Opertivo/Plan de Marketing.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/attachements",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Web Deploy.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Tests de usuarios en ambientes de Prod y Pruebas.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Notas de Entrega Código Fuente.md",
-    "Projects/Wiserkronox/Projects/BISA_PCC04/attachements",
-    "Projects/Wiserkronox/Projects/BISA Seguros",
-    "Projects/Wiserkronox/Projects/BISA_PCC04"
+    "Impuestos"
   ]
 }
