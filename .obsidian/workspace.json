@@ -11,10 +11,14 @@
             "id": "d51e6b5167f1b9bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -193,9 +197,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d51e6b5167f1b9bd",
+  "active": "a4014b7d47d6bbc3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/despliegue-rhel-atlas.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-despliegue-checklist.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-despliegue-checklist.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/Untitled.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging",
+    "Freshdesk integration.md",
+    "Deploy Notes (Staging).md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Google_Wallet_Estado_Actual_Y_Pendientes.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Calculo_Deducibles_Por_Asegurado_Y_Poliza.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/AppIcon.png",
@@ -229,17 +244,6 @@
     "Technical Reference/Unconfirmed 478354.crdownload",
     "Projects/Expolinxs/General.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
-    "Impuestos/Notas Facilidad de Pago (cuotas).md",
-    "Impuestos",
-    "Projects/Wiserkronox/Projects/BISA Seguros/BISA Seguros iOS App.md",
-    "Projects/Mundialmed/Untitled.md",
-    "Projects/Opertivo/Plan de Marketing.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/attachements",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Web Deploy.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Tests de usuarios en ambientes de Prod y Pruebas.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Notas de Entrega Código Fuente.md",
-    "Projects/Wiserkronox/Projects/BISA_PCC04/attachements",
-    "Projects/Wiserkronox/Projects/BISA Seguros",
-    "Projects/Wiserkronox/Projects/BISA_PCC04"
+    "Impuestos"
   ]
 }
