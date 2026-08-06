@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "86a0cc8de0126a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4014b7d47d6bbc3",
+  "active": "86a0cc8de0126a4e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/Google_Wallet_Estado_Actual_Y_Pendientes.md",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/Calculo_Deducibles_Por_Asegurado_Y_Poliza.md",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/AppIcon.png",
+    "Projects/BISA Seguros Salud Internacional/attachments/Pasted image 20260615163949.png",
+    "Projects/BISA Seguros Salud Internacional/attachments",
+    "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
     "Technical Reference/neovim-astronvim-java-nextjs-guide.md",
     "Technical Reference/astronvim-navigation-refactoring-guide.md",
     "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
@@ -207,7 +229,6 @@
     "Welcome.md",
     "Sol de Septiembre Deudas.md",
     "Rodrigo Claros.md",
-    "conflict-files-obsidian-git.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-7.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-6.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-5.jpg",
@@ -216,8 +237,6 @@
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-2.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-1.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-4.jpg",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-3.jpg",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-2.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides",
@@ -238,12 +257,8 @@
     "Projects/Wiserkronox/Projects/BISA Seguros/Web Deploy.md",
     "Projects/Wiserkronox/Projects/BISA Seguros/Tests de usuarios en ambientes de Prod y Pruebas.md",
     "Projects/Wiserkronox/Projects/BISA Seguros/Notas de Entrega Código Fuente.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/Issue Android App.md",
-    "Projects/Wiserkronox/Projects/BISA_PCC04/Notas para Producción.md",
-    "Projects/Wiserkronox/Projects/BISA Seguros/BISA Seguros Web App.md",
     "Projects/Wiserkronox/Projects/BISA_PCC04/attachements",
     "Projects/Wiserkronox/Projects/BISA Seguros",
-    "Projects/Wiserkronox/Projects/BISA_PCC04",
-    "Projects/Wiserkronox/Projects/attachements"
+    "Projects/Wiserkronox/Projects/BISA_PCC04"
   ]
 }
