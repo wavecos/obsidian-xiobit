@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb1ff58471ab38a",
+        "id": "22d6816f77040d54",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb11347d5436983",
+            "id": "c5ae6f420b6c6e74",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,6 +196,14 @@
   "active": "a4014b7d47d6bbc3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "attachments/remediacion-ethical-hacking.md",
+    "attachments/alcance-eh-reembolsos-freshdesk.md",
+    "Reembolsos-Freshdesk-EH.md",
+    "Projects/BISA Seguros Salud Internacional/Reembolsos/endpoints-eh-reembolsos.md",
+    "Projects/BISA Seguros Salud Internacional/Reembolsos",
+    "Projects/BISA Seguros Salud Internacional/App Stores Submissions/Notas iOS.md",
+    "Projects/BISA Seguros Salud Internacional/App Stores Submissions/Notas Play Store.md",
+    "Projects/BISA Seguros Salud Internacional/App Stores Submissions",
     "Technical Reference/neovim-astronvim-java-nextjs-guide.md",
     "Technical Reference/nvim-markdown-notas.md",
     "Technical Reference/astronvim-navigation-refactoring-guide.md",
@@ -232,14 +240,6 @@
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides",
-    "Projects/BISA Seguros Salud Internacional/Reuniones/Reunion Siniestros 2026-03-24.md",
-    "Projects/BISA Seguros Salud Internacional/Reuniones/Presentación 2026-03-11 Santa Cruz.md",
-    "attachments",
-    "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
-    "Projects/BISA Seguros Salud Internacional/Solicitud de Servicios Web - BISA Seguros Salud Internacional.md",
-    "Technical Reference/Unconfirmed 478354.crdownload",
-    "Projects/Expolinxs/General.md",
-    "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
-    "Impuestos"
+    "attachments"
   ]
 }
