@@ -4,24 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "22d6816f77040d54",
+        "id": "640a13bfa688e4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ae6f420b6c6e74",
+            "id": "cb943ef05421a90c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Modulo de Backoffice"
+            }
+          },
+          {
+            "id": "e6013977adc465c4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Usuarios de Prueba Agentes (Intermediarios)"
+            }
+          },
+          {
+            "id": "115c279d03b02f65",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Usuarios de Prueba Afiliados"
+            }
+          },
+          {
+            "id": "456b57f00367cbe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy/Requisitos BISA para Deploy.md",
+                "file": "Freshdesk integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requisitos BISA para Deploy"
+              "title": "Freshdesk integration"
+            }
+          },
+          {
+            "id": "5adbec70d28806a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "despliegue-rhel-atlas"
+            }
+          },
+          {
+            "id": "3bf467f0935b6117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy Notes (Staging).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deploy Notes (Staging)"
+            }
+          },
+          {
+            "id": "387ce09fe8754b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "6a554ea8cfed024d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/App Stores Submissions/Notas Play Store.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas Play Store"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -80,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2190491203af3f7a",
@@ -198,53 +304,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5ae6f420b6c6e74",
+  "active": "a4014b7d47d6bbc3",
   "lastOpenFiles": [
     "Projects/BISA Seguros Salud Internacional/Atlas Deploy/Requisitos BISA para Deploy.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/remediacion-ethical-hacking.md",
-    "attachments/alcance-eh-reembolsos-freshdesk.md",
-    "Reembolsos-Freshdesk-EH.md",
-    "Projects/BISA Seguros Salud Internacional/Reembolsos/endpoints-eh-reembolsos.md",
-    "Projects/BISA Seguros Salud Internacional/Reembolsos",
     "Projects/BISA Seguros Salud Internacional/App Stores Submissions/Notas iOS.md",
     "Projects/BISA Seguros Salud Internacional/App Stores Submissions/Notas Play Store.md",
+    "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
     "Projects/BISA Seguros Salud Internacional/App Stores Submissions",
+    "Projects/BISA Seguros Salud Internacional/Untitled 2.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
+    "Projects/BISA Seguros Salud Internacional/Untitled.md",
+    "Projects/BISA Seguros Salud Internacional/Reembolsos/endpoints-eh-reembolsos.md",
+    "Deploy Notes (Staging).md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
+    "Freshdesk integration.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Backoffice/Modulo de Backoffice.md",
+    "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
+    "Projects/BISA Seguros Salud Internacional/Reembolsos/remediacion-ethical-hacking.md",
+    "Projects/BISA Seguros Salud Internacional/Reembolsos",
+    "attachments/remediacion-ethical-hacking.md",
+    "Reembolsos-Freshdesk-EH.md",
+    "attachments/alcance-eh-reembolsos-freshdesk.md",
+    "Projects/BISA Seguros Salud Internacional/Reuniones/Notas Meeting.md",
+    "Projects/BISA Seguros Salud Internacional/Respuesta a Monica.md",
+    "Projects/BISA Seguros Salud Internacional/Solicitud de Servicios Web - BISA Seguros Salud Internacional.md",
     "Technical Reference/neovim-astronvim-java-nextjs-guide.md",
     "Technical Reference/nvim-markdown-notas.md",
-    "Technical Reference/astronvim-navigation-refactoring-guide.md",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/despliegue-rhel-atlas.md",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-nginx-bisa-proxy.conf",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-despliegue-checklist.md",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/despliegue-rhel-atlas.md",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-nginx-bisa-proxy.conf",
-    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-despliegue-checklist.md",
     "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-despliegue-checklist.md",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-despliegue-checklist.md",
     "Projects/BISA Seguros Salud Internacional/Atlas Deploy Staging",
-    "Freshdesk integration.md",
-    "Deploy Notes (Staging).md",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/Google_Wallet_Estado_Actual_Y_Pendientes.md",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/Calculo_Deducibles_Por_Asegurado_Y_Poliza.md",
+    "Projects/BISA Seguros Salud Internacional/untitled folder",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/atlas-nginx-bisa-proxy.conf",
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/AppIcon.png",
     "Projects/BISA Seguros Salud Internacional/attachments/Pasted image 20260615163949.png",
     "Projects/BISA Seguros Salud Internacional/attachments",
-    "Projects/BISA Seguros Salud Internacional/Untitled 1.md",
-    "Projects/BISA Seguros Salud Internacional/Modulo Agentes/Usuarios de Prueba Agentes (Intermediarios).md",
-    "Projects/BISA Seguros Salud Internacional/Modulo Afiliados/Usuarios de Prueba Afiliados.md",
-    "Welcome.md",
-    "Sol de Septiembre Deudas.md",
-    "Rodrigo Claros.md",
+    "attachments/Pasted image 20260316182300.png",
+    "attachments",
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-5.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-7.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-6.jpg",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-5.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-4.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-3.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-2.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-1.jpg",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-4.jpg",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides",
-    "attachments"
+    "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups"
   ]
 }
