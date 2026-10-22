@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "075689a31ebac01c",
+        "id": "1fb1ff58471ab38a",
         "type": "tabs",
         "children": [
           {
-            "id": "173a2de1f79edf67",
+            "id": "7bb11347d5436983",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "173a2de1f79edf67",
+  "active": "a4014b7d47d6bbc3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Technical Reference/neovim-astronvim-java-nextjs-guide.md",
