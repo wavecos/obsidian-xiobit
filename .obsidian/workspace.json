@@ -11,10 +11,14 @@
             "id": "c5ae6f420b6c6e74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BISA Seguros Salud Internacional/Atlas Deploy/Requisitos BISA para Deploy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Requisitos BISA para Deploy"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2190491203af3f7a",
@@ -193,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4014b7d47d6bbc3",
+  "active": "c5ae6f420b6c6e74",
   "lastOpenFiles": [
+    "Projects/BISA Seguros Salud Internacional/Atlas Deploy/Requisitos BISA para Deploy.md",
     "conflict-files-obsidian-git.md",
     "attachments/remediacion-ethical-hacking.md",
     "attachments/alcance-eh-reembolsos-freshdesk.md",
@@ -238,7 +244,6 @@
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/flujo-slide-1.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups/consultas-slide-4.jpg",
     "Projects/BISA Seguros Salud Internacional/implementation_guides/plan_sprint9_mockups",
-    "Projects/BISA Seguros Salud Internacional/implementation_guides/Plan_Implementacion_Sprint9_Siniestros.md",
     "Projects/BISA Seguros Salud Internacional/implementation_guides",
     "attachments"
   ]
